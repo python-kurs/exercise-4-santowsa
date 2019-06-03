@@ -10,7 +10,7 @@ zugspitze =
 garmisch  = 
 zugspitze = 
 
-# Resample the temperature data to monthly averages (" TMK") and store them in simple lists: [1P]
+# Resample the temperature data to monthly averages (" TMK") and the precipitation data to monthly sums (" RSK"): [1P]
 garmisch_agg  = 
 zugspitze_agg = 
 
